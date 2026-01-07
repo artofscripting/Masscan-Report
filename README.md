@@ -6,6 +6,10 @@ A Python tool that generates interactive React-based HTML visualizations from ma
 ![React](https://img.shields.io/badge/frontend-React%2018-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green)
 
+## Screenshot
+
+![Masscan Report Screenshot](Screenshot.png)
+
 ## Features
 
 ### Interactive Network Graph
